@@ -1,5 +1,5 @@
 FROM hshar/webapp
-ADD ./devopsIQ 
+ADD ./devopsIQ /devopsIQ
 EXPOSE 80
 EXPOSE 81
 EXPOSE 82
